@@ -33,6 +33,9 @@
 ### 😀 멤버
 
 김영기 - AIFFEL RESEARCH 13th
+
 김청해 - AIFFEL RESEARCH 13th
+
 권재현 - AIFFEL RESEARCH 13th
+
 오가현 - AIFFEL RESEARCH 13th
